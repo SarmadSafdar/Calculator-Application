@@ -1,0 +1,11 @@
+C:\Users\samyd\OneDrive\Documents\Study\University Fall 2023\CSC 153\Assignments\Term Project\Calculator App\bin\Debug\Calculator App.exe.config
+C:\Users\samyd\OneDrive\Documents\Study\University Fall 2023\CSC 153\Assignments\Term Project\Calculator App\bin\Debug\Calculator App.exe
+C:\Users\samyd\OneDrive\Documents\Study\University Fall 2023\CSC 153\Assignments\Term Project\Calculator App\bin\Debug\Calculator App.pdb
+C:\Users\samyd\OneDrive\Documents\Study\University Fall 2023\CSC 153\Assignments\Term Project\Calculator App\obj\Debug\Calculator App.csproj.AssemblyReference.cache
+C:\Users\samyd\OneDrive\Documents\Study\University Fall 2023\CSC 153\Assignments\Term Project\Calculator App\obj\Debug\Calculator_App.Form1.resources
+C:\Users\samyd\OneDrive\Documents\Study\University Fall 2023\CSC 153\Assignments\Term Project\Calculator App\obj\Debug\Calculator_App.Properties.Resources.resources
+C:\Users\samyd\OneDrive\Documents\Study\University Fall 2023\CSC 153\Assignments\Term Project\Calculator App\obj\Debug\Calculator App.csproj.GenerateResource.cache
+C:\Users\samyd\OneDrive\Documents\Study\University Fall 2023\CSC 153\Assignments\Term Project\Calculator App\obj\Debug\Calculator App.csproj.CoreCompileInputs.cache
+C:\Users\samyd\OneDrive\Documents\Study\University Fall 2023\CSC 153\Assignments\Term Project\Calculator App\obj\Debug\Calculator App.exe
+C:\Users\samyd\OneDrive\Documents\Study\University Fall 2023\CSC 153\Assignments\Term Project\Calculator App\obj\Debug\Calculator App.pdb
+C:\Users\samyd\OneDrive\Documents\Study\University Fall 2023\CSC 153\Assignments\Term Project\Calculator App\obj\Debug\Calculator App.exe.config
